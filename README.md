@@ -27,7 +27,7 @@
 <hr>
 
 <details>
-<summary style="size:16pt">
+<summary>
     <b>About me!</b>
 </summary>
 
