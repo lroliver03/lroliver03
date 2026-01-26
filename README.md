@@ -1,6 +1,6 @@
 <h1 align="center">Lucas Oliver</h1>
 <div align="center">
-    <b>Electrical Engineering Student | :beginner: | :brazil:</b>
+    <b>R&D Engineer in Electronics and Embedded Systems | :brazil:</b>
 </div>
 
 <br>
@@ -26,6 +26,13 @@
 
 <hr>
 
+<div align="center">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lroliver03&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroliver03&langs_count=6&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
+</div>
+
+<hr>
+
 <details>
 <summary>
     <b>About Me</b>
@@ -33,8 +40,8 @@
 
 I'm an electrical engineering student at IMT Atlantique and Unicamp.
 
-- I’m reasonably experienced in Git and GitHub.
-- Pronouns: he/him
+- Experienced in Git and GitHub
+- Academic projects in embedded systems and low-level programming (check [BitDogLab](https://github.com/BitDogLab/BitDogLab) and [BitDogLab-C](https://github.com/BitDogLab/BitDogLab-C)
 
 </details>
 
