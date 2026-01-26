@@ -27,8 +27,8 @@
 <hr>
 
 <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lroliver03&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroliver03&langs_count=6&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lroliver03&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&include_orgs=true" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroliver03&langs_count=6&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact&include_orgs=true" />
 </div>
 
 <hr>
